@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Twitter Search</string>
+    <string name="main_twitter_search_query_textview">Enter Twitter search query here</string>
+    <string name="main_tag_your_query_edittext">Tag your query</string>
+    <string name="main_tagged_searchs_textview">Tagged Searchs</string>
+    <string name="search_url">http://mobile.twitter.com/search/</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="tag_dialog">Share, Edit or Delete the search tagged as {tag}</string>
+    <array name="dialog_items">
+        <item>Share</item>
+        <item>Edit</item>
+        <item>Delete</item>
+    </array>
+
+    <string name="share_subject">Twitter search that might interest you</string>
+    <string name="share_message">Check out the results of this Twitter search: %s</string>
+    <string name="share_search">Share Search to:</string>
+
+    <string name="delete">Deletar</string>
+    <string name="confirm_message">Are you sure you want to delete the search %s</string>
+</resources>
